@@ -58,7 +58,8 @@ vagrant up
 ---
 **Схема сети:**
 
-![Uploading image.png…]()
+
+
 
     
 **3.1 настроить OSPF между машинами на базе Quagga;**    
