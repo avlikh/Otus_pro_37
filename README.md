@@ -38,7 +38,7 @@ apt update -y && apt install git -y ; git clone https://github.com/avlikh/Otus_p
 vagrant up
 ```
 <details>
-<summary> Результатом выполнения команды vagrant up станет созданные и настроенные 7 виртуальных машин: </summary>
+<summary> Результатом выполнения команды vagrant up станут созданные и настроенные 7 виртуальных машин: </summary>
 
 ```
 root@deb4likh:/opt/otus/vlan-lacp# vagrant up
